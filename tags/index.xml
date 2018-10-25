@@ -1,59 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 1st workshop on Advanced Machine Vision for Real-life and Industrially Relevant Applications </title>
-    <link>https://stevenputtemans.github.io/AMV2018/tags/</link>
-    <description>Recent content in Tags on 1st workshop on Advanced Machine Vision for Real-life and Industrially Relevant Applications </description>
+    <title>1st workshop on Advanced Machine Vision for Real-life and Industrially Relevant Applications </title>
+    <link>https://stevenputtemans.github.io/AMV2018/</link>
+    <description>Recent content on 1st workshop on Advanced Machine Vision for Real-life and Industrially Relevant Applications </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2017 12:04:06 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
     
-	<atom:link href="https://stevenputtemans.github.io/AMV2018/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stevenputtemans.github.io/AMV2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Code</title>
-      <link>https://stevenputtemans.github.io/AMV2018/tags/code/</link>
+      <title>Photography</title>
+      <link>https://stevenputtemans.github.io/AMV2018/projects/photography/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/projects/photography/</guid>
+      <description>Sometimes I take pictures. This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://stevenputtemans.github.io/AMV2018/projects/design/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/projects/design/</guid>
+      <description>This theme was designed by Vicky Lai. Go on, explore! 💪
+If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://stevenputtemans.github.io/AMV2018/projects/writing/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/projects/writing/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
+To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+    </item>
+    
+    <item>
+      <title>Hipster Ipsum</title>
+      <link>https://stevenputtemans.github.io/AMV2018/blog/hipster-ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/blog/hipster-ipsum/</guid>
+      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+    </item>
+    
+    <item>
+      <title>Startup Ipsum</title>
+      <link>https://stevenputtemans.github.io/AMV2018/blog/startup-ipsum/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2018/tags/code/</guid>
-      <description></description>
+      <guid>https://stevenputtemans.github.io/AMV2018/blog/startup-ipsum/</guid>
+      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
     </item>
     
     <item>
-      <title>Coffee</title>
-      <link>https://stevenputtemans.github.io/AMV2018/tags/coffee/</link>
+      <title>Coffee Ipsum</title>
+      <link>https://stevenputtemans.github.io/AMV2018/blog/coffee-ipsum/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2018/tags/coffee/</guid>
-      <description></description>
+      <guid>https://stevenputtemans.github.io/AMV2018/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
     </item>
     
     <item>
-      <title>Images</title>
-      <link>https://stevenputtemans.github.io/AMV2018/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      <title>Call For Papers</title>
+      <link>https://stevenputtemans.github.io/AMV2018/cfp/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2018/tags/images/</guid>
-      <description></description>
+      <guid>https://stevenputtemans.github.io/AMV2018/cfp/</guid>
+      <description>Please find a pdf version of this call for papers by clicking here
+The ambition of this full-day AMV2018 workshop is to bring together practitioners and researchers from different disciplines related to Advanced Machine Vision to share ideas and methods on current and future use of computer vision algorithms in real-life and industrially relevant systems. This field raises the need of applied research that focusses on the technology transfer from academics towards practitioners, yielding several challenges like top-notch accuracies, real-time processing, minimal training data, minimal manual input, user-friendly interfaces, &amp;hellip;</description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://stevenputtemans.github.io/AMV2018/tags/ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>Home</title>
+      <link>https://stevenputtemans.github.io/AMV2018/home/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2018/tags/ipsum/</guid>
-      <description></description>
+      <guid>https://stevenputtemans.github.io/AMV2018/home/</guid>
+      <description>We are proud to present the 1st International Workshop on Advanced Machine Vision for Real-life and Industrially Relevant Applications (AMV2018). This workshop is in conjunction with ACCV2018, Perth, Australia and is scheduled on Monday the 3rd of December 2018 (all-day workshop).
+A large variety of industrially oriented applications (e.g. quality control, pick and place) have in the past decades been successfully implemented throughout a wide range of industries. These implementations are characterized by very controlled surroundings and objects (e.</description>
     </item>
     
     <item>
-      <title>Words</title>
-      <link>https://stevenputtemans.github.io/AMV2018/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>Important Dates</title>
+      <link>https://stevenputtemans.github.io/AMV2018/dates/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2018/tags/words/</guid>
-      <description></description>
+      <guid>https://stevenputtemans.github.io/AMV2018/dates/</guid>
+      <description> EXTENDED paper submission deadline: 30th of September 2018 (11:59 CEST) Notification of acceptance + reviews available: 28th of October 2018 Workshop date: Monday 3th of December 2018 - all day Post-proceedings camera-ready deadline: TBD  </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://stevenputtemans.github.io/AMV2018/people/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/people/</guid>
+      <description>Workshop Organizers  Thomas B. Moeslund
+Professor
+Visual Analysis of People LabAalborg University
+Denmark
+Website: click here   Rikke Gade
+Assistant ProfessorVisual Analysis of People LabAalborg University
+Denmark
+Website: click here    Toon Goedeme
+Professor
+EAVISE Research GroupKU Leuven
+Belgium
+Website: click here   Steven Puttemans
+Post-doctoral researcher
+EAVISE Research GroupKU Leuven
+Belgium
+Website: click here    Ajmal Mian
+Professor
+School of Physics, Mathematics &amp; Computing, The University of Western Australia</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://stevenputtemans.github.io/AMV2018/program/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/program/</guid>
+      <description>The program itself is still under construction and will be made publicly available in due time.
+We can already confirm the following invited speakers:
+1) Yongsheng Gao Vision Perception for Automation in Agriculture and Aquaculture Environmental informatics studies new knowledge, technologies and devices for automation in agriculture and aquaculture, early detection of pest and plant disease, automatic species identification, plant phenomics, better water resource management, land environment monitoring, costal environment monitoring, marine life surveillance, etc.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>https://stevenputtemans.github.io/AMV2018/submission/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>https://stevenputtemans.github.io/AMV2018/submission/</guid>
+      <description>Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research.
+The paper template is identical to the main ACCV2018 conference:
+ LaTeX Templates (zip): accv2018kit.zip Example submission paper with detailed instructions: accv2018submission.pdf  Papers are limited to 14 pages, excluding references. The review process is double blind. Papers that are not blind, or do not use the template, or have more than 14 pages (excluding references) will be rejected without review.</description>
     </item>
     
   </channel>
